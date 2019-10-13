@@ -1026,29 +1026,6 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 H3 {
   color: #232323;
 }
-.cid-rEks6UCrtE {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background: linear-gradient(45deg, #dbd4b8, #ffffff);
-}
-.cid-rEks6UCrtE .main {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-rEks6UCrtE .main .mbr-section-btn {
-  text-align: right;
-}
-.cid-rEks6UCrtE .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rEks6UCrtE H2 {
-  color: #232323;
-  text-align: center;
-}
-.cid-rEks6UCrtE H3 {
-  color: #232323;
-  text-align: right;
-}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1507,4 +1484,93 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rEM8b8bMYF {
+  background-image: url("../../../assets/images/heathwood-gardens-11-2000x1298.jpg");
+}
+.cid-rEM8b8bMYF h1 {
+  color: #616161;
+}
+.cid-rEM8b8bMYF h2,
+.cid-rEM8b8bMYF h3,
+.cid-rEM8b8bMYF p {
+  color: #767676;
+}
+.cid-rEM8b8bMYF .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-rEM8b8bMYF H1 {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-rEM8b8bMYF H3 {
+  color: #dbd4b8;
+}
+.cid-rEM0eWYIRP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rEM0eWYIRP .content {
+    text-align: center;
+  }
+  .cid-rEM0eWYIRP .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rEM0eWYIRP .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rEM0eWYIRP .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rEM0eWYIRP .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rEM0eWYIRP .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rEM0eWYIRP .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rEM0eWYIRP .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rEM0eWYIRP .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rEM0eWYIRP .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rEM0eWYIRP .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rEM0eWYIRP .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rEM0eWYIRP .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
 }
